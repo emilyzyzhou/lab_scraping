@@ -1,76 +1,15 @@
 ,title,price,year,link,brand,age
-0,2016 bmw x3 28d,14750,2016.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2016-bmw-x3-28d/7879983457.html,bmw,9.0
-1,2006 volvo s60 2.5t,4285,2006.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2006-volvo-s60-25t/7879943553.html,volvo,19.0
-2,2012 hyundai sonata 55k original miles,5500,2012.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2012-hyundai-sonata-55k/7879708892.html,missing,13.0
-3,2023 audi sq5 prestige 1 owner garage kept extremely clean,46500,2023.0,https://charlottesville.craigslist.org/cto/d/elkton-2023-audi-sq5-prestige-owner/7879634470.html,audi,2.0
-4,2012 honda civic lx,5500,2012.0,https://charlottesville.craigslist.org/cto/d/henrico-2012-honda-civic-lx/7879466970.html,honda,13.0
-5,2021 ford bronco outerbanks,25000,2021.0,https://charlottesville.craigslist.org/cto/d/waynesboro-2021-ford-bronco-outerbanks/7879457862.html,ford,4.0
-6,chevrolet blazers group of 3,3500,,https://charlottesville.craigslist.org/cto/d/esmont-chevrolet-blazers-group-of/7879451641.html,chevrolet,
-7,for sale: 2004 bmw 645ci coupe with dinan powertrain modifications,10500,2004.0,https://charlottesville.craigslist.org/cto/d/charlottesville-for-sale-2004-bmw-645ci/7879450729.html,bmw,21.0
-8,hummer 2008 h3,17000,2008.0,https://charlottesville.craigslist.org/cto/d/charlottesville-hummer-2008-h3/7879374337.html,missing,17.0
-9,2005 pt cruiser convertible,4900,2005.0,https://charlottesville.craigslist.org/cto/d/leon-2005-pt-cruiser-convertible/7879356232.html,missing,20.0
-10,2000 jeep wrangler 4.0 manual 4x4,6500,2000.0,https://charlottesville.craigslist.org/cto/d/pratts-2000-jeep-wrangler-40-manual-4x4/7879299496.html,jeep,25.0
-11,2011 subaru outback pzev limited 2.5l awd,3200,2011.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2011-subaru-outback/7879156054.html,subaru,14.0
-12,2012 volkswagen cc lux,3400,2012.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2012-volkswagen-cc-lux/7879151321.html,volkswagen,13.0
-13,toyota tacoma 2000,7900,2000.0,https://charlottesville.craigslist.org/cto/d/quinque-toyota-tacoma-2000/7879098317.html,toyota,25.0
-14,subaru legacy 2.5l special edition,2800,,https://charlottesville.craigslist.org/cto/d/esmont-subaru-legacy-25l-special-edition/7878961502.html,subaru,
-15,2013 subaru outback,7750,2013.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2013-subaru-outback/7878956458.html,subaru,12.0
-16,"2017 ford fusion se, 2.0l ecoboost - 1 owner - 65k mi",12800,2017.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2017-ford-fusion-se-20l/7878949825.html,ford,8.0
-17,2015 sienna le,15000,2015.0,https://charlottesville.craigslist.org/cto/d/crozet-2015-sienna-le/7878866333.html,missing,10.0
-18,1968 mercedes benz 280 se 280se,8500,1968.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-1968-mercedes-benz-280/7878849464.html,missing,57.0
-19,dodge ram 3500 truck-2016,40000,2016.0,https://charlottesville.craigslist.org/cto/d/crozet-dodge-ram-3500-truck-2016/7878782937.html,dodge,9.0
-20,06 kia sedona,1250,,https://charlottesville.craigslist.org/cto/d/quinque-06-kia-sedona/7878779747.html,kia,
-21,gorgeous convertible but needs work,1500,,https://charlottesville.craigslist.org/cto/d/montpelier-station-gorgeous-convertible/7878762421.html,missing,
-22,2013 honda odyssey ex must call,6950,2013.0,https://charlottesville.craigslist.org/cto/d/henrico-2013-honda-odyssey-ex-must-call/7878760785.html,honda,12.0
-23,2003 ford explorer xlt 4x4,1500,2003.0,https://charlottesville.craigslist.org/cto/d/oakpark-2003-ford-explorer-xlt-4x4/7878629162.html,ford,22.0
-24,fiat 500 pop convertible,5000,,https://charlottesville.craigslist.org/cto/d/waynesboro-fiat-500-pop-convertible/7878612156.html,missing,
-25,clean 2006 jeep lj bulletproof 4.0,16000,2006.0,https://charlottesville.craigslist.org/cto/d/afton-clean-2006-jeep-lj-bulletproof-40/7878579403.html,jeep,19.0
-26,project/parts car,1000,,https://charlottesville.craigslist.org/cto/d/pratts-project-parts-car/7878529505.html,missing,
-27,1998 subaru outback,2000,1998.0,https://charlottesville.craigslist.org/cto/d/afton-1998-subaru-outback/7878514220.html,subaru,27.0
-28,2016 freightliner sd 114 9-car hauler – for sale,79999,2016.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2016-freightliner-sd/7878503390.html,missing,9.0
-29,2020 tahoe for sale,40000,2020.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2020-tahoe-for-sale/7878340770.html,missing,5.0
-30,2011 mazda cx9 touring,1000,2011.0,https://charlottesville.craigslist.org/cto/d/waynesboro-2011-mazda-cx9-touring/7878278014.html,mazda,14.0
-31,2012  toyota corolla,8000,2012.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2012-toyota-corolla/7878103324.html,toyota,13.0
-32,mercedes benz ml320,2500,,https://charlottesville.craigslist.org/cto/d/keene-mercedes-benz-ml320/7878070991.html,missing,
-33,"2013 subaru crosstrek, 86k miles, great condition",10950,2013.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2013-subaru-crosstrek/7878041010.html,subaru,12.0
-34,2009 toyota prius with brand new toyota oem hybrid battery,6500,2009.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2009-toyota-prius-with/7877997280.html,toyota,16.0
-35,1984 jeep cj7 laredo,7500,1984.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1984-jeep-cj7-laredo/7877986213.html,jeep,41.0
-36,2016 ford edge,11000,2016.0,https://charlottesville.craigslist.org/cto/d/keswick-2016-ford-edge/7877896100.html,ford,9.0
-37,2005 gmc sierra 2500hd crew cap  4x4,16500,2005.0,https://charlottesville.craigslist.org/cto/d/waynesboro-2005-gmc-sierra-2500hd-crew/7877863106.html,gmc,20.0
-38,jeep compass 2008,3250,2008.0,https://charlottesville.craigslist.org/cto/d/earlysville-jeep-compass-2008/7877760569.html,jeep,17.0
-39,clear limplio,3500,,https://charlottesville.craigslist.org/cto/d/earlysville-clear-limplio/7877755915.html,missing,
-40,2013 porsche panamera,23900,2013.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2013-porsche-panamera/7877551751.html,porsche,12.0
-41,"sante fe sport, 2013, hyundai",11500,2013.0,https://charlottesville.craigslist.org/cto/d/charlottesville-sante-fe-sport-2013/7877480585.html,missing,12.0
-42,2018 nissan leaf sl ev,8500,2018.0,https://charlottesville.craigslist.org/cto/d/henrico-2018-nissan-leaf-sl-ev/7876947340.html,missing,7.0
-43,2018 sahara unlimited jl wrangler 4dr,28700,2018.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2018-sahara-unlimited/7876885634.html,missing,7.0
-44,2008 ford f250,1200,2008.0,https://charlottesville.craigslist.org/cto/d/afton-2008-ford-f250/7876642422.html,ford,17.0
-45,2004 honda element,4900,2004.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2004-honda-element/7876434403.html,honda,21.0
-46,2008 volkswagen (vw) touareg 2,7500,2008.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2008-volkswagen-vw/7876404502.html,volkswagen,17.0
-47,honda civic 2010 ex for sale,3500,2010.0,https://charlottesville.craigslist.org/cto/d/columbia-honda-civic-2010-ex-for-sale/7876053399.html,honda,15.0
-48,2014 fiesta st,7500,2014.0,https://charlottesville.craigslist.org/cto/d/palmyra-2014-fiesta-st/7876036817.html,missing,11.0
-49,2010 toyota camry xle v6,7500,2010.0,https://charlottesville.craigslist.org/cto/d/henrico-2010-toyota-camry-xle-v6/7875667373.html,toyota,15.0
-50,1963 /1965 triumph tr4 convertible with doors and body panels,3950,1963.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-triumph-tr4/7875647469.html,missing,62.0
-51,2014 toyota prius v five,8900,2014.0,https://charlottesville.craigslist.org/cto/d/henrico-2014-toyota-prius-five/7875387413.html,toyota,11.0
-52,dodge durango limited awd 2014,14000,2014.0,https://charlottesville.craigslist.org/cto/d/charlottesville-dodge-durango-limited/7875385796.html,dodge,11.0
-53,2007 chevy cobalt 4d sedan,2999,2007.0,https://charlottesville.craigslist.org/cto/d/leon-2007-chevy-cobalt-4d-sedan/7875374986.html,chevy,18.0
-54,for sale: 2021 ford bronco sport outer banks,30000,2021.0,https://charlottesville.craigslist.org/cto/d/waynesboro-for-sale-2021-ford-bronco/7875135219.html,ford,4.0
-55,2022 toyota tacoma,35500,2022.0,https://charlottesville.craigslist.org/cto/d/waynesboro-2022-toyota-tacoma/7874995539.html,toyota,3.0
-56,great deal - 1000.00 less than book 2013 nissan sentra,2200,2013.0,https://charlottesville.craigslist.org/cto/d/crozet-great-deal-less-than-book-2013/7874906085.html,missing,12.0
-57,2010 toyota prius iii,5900,2010.0,https://charlottesville.craigslist.org/cto/d/henrico-2010-toyota-prius-iii/7874859191.html,toyota,15.0
-58,2002 ford ranger (look),4500,2002.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2002-ford-ranger-look/7874771138.html,ford,23.0
-59,original 2011 gt 500 shelby,45750,2011.0,https://charlottesville.craigslist.org/cto/d/charlottesville-original-2011-gt-500/7874643790.html,missing,14.0
-60,2006 honda pilot exl fwd,4500,2006.0,https://charlottesville.craigslist.org/cto/d/henrico-2006-honda-pilot-exl-fwd/7874571364.html,honda,19.0
-61,2007 mecury mariner mechanic special 1500,1500,2007.0,https://charlottesville.craigslist.org/cto/d/haywood-2007-mecury-mariner-mechanic/7874556895.html,missing,18.0
-62,2016 chevy silverado 2500 4wd truck,18500,2016.0,https://charlottesville.craigslist.org/cto/d/stanardsville-2016-chevy-silverado-wd/7874452867.html,chevy,9.0
-63,2016 bmw x5 40e - hybrid,16500,2016.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2016-bmw-x5-40e-hybrid/7874217232.html,bmw,9.0
-64,"2008 freightliner/ thomas bus ,short length",3990,2008.0,https://charlottesville.craigslist.org/cto/d/lexington-2008-freightliner-thomas-bus/7874136024.html,missing,17.0
-65,1986 chevy k10 4x4,25000,1986.0,https://charlottesville.craigslist.org/cto/d/leon-1986-chevy-k10-4x4/7874104392.html,chevy,39.0
-66,2003 chevy tahoe,3950,2003.0,https://charlottesville.craigslist.org/cto/d/keswick-2003-chevy-tahoe/7874052578.html,chevy,22.0
-67,2020 lexus es 350 f sport,28500,2020.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2020-lexus-es-350-sport/7873979439.html,lexus,5.0
-68,🟢2012 hyundai sonata 55k original miles🟡,5500,2012.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2012-hyundai-sonata-55k/7873898990.html,missing,13.0
-69,2002 mitsubishi eclipse spyder gt,5800,2002.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2002-mitsubishi-eclipse/7873854806.html,mitsubishi,23.0
-70,2015 honda odyssey ex,8950,2015.0,https://charlottesville.craigslist.org/cto/d/henrico-2015-honda-odyssey-ex/7873407937.html,honda,10.0
-71,"2014 chevrolet impala ltz – fully loaded, custom look, great condition",10000,2014.0,https://charlottesville.craigslist.org/cto/d/waynesboro-2014-chevrolet-impala-ltz/7873257340.html,chevrolet,11.0
-72,99 toyota 4runner,2500,,https://charlottesville.craigslist.org/cto/d/lyndhurst-99-toyota-4runner/7872707283.html,toyota,
-73,1983 dodge d150,10000,1983.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1983-dodge-d150/7872593771.html,dodge,42.0
-74,1990 geo metro project,700,1990.0,https://charlottesville.craigslist.org/cto/d/palmyra-1990-geo-metro-project/7872438802.html,missing,35.0
+0,2003 victory v92c cruiser motorcycle super low miles 875,4750,2003.0,https://charlottesville.craigslist.org/mcy/d/somerset-2003-victory-v92c-cruiser/7879050882.html,victory,22.0
+1,ducati scrambler icon 2015 803cc,4899,2015.0,https://charlottesville.craigslist.org/mcy/d/charlottesville-ducati-scrambler-icon-cc/7878863594.html,missing,10.0
+2,1999. yamaha1100 vstar,3500,1999.0,https://charlottesville.craigslist.org/mcy/d/buena-vista-1999-yamaha1100-vstar/7878644043.html,missing,26.0
+3,zero fxs zf7.2,5800,,https://charlottesville.craigslist.org/mcy/d/charlottesville-zero-fxs-zf72/7878303633.html,missing,
+4,2013  650 black yamaha vstar,2800,2013.0,https://charlottesville.craigslist.org/mcy/d/louisa-black-yamaha-vstar/7877979105.html,yamaha,12.0
+5,vintage motorcycle mechanic,0,,https://charlottesville.craigslist.org/mcy/d/keswick-vintage-motorcycle-mechanic/7877735152.html,missing,
+6,motorcycle,3500,,https://charlottesville.craigslist.org/mcy/d/crimora-motorcycle/7877159337.html,missing,
+7,mopeds and parts,500,,https://charlottesville.craigslist.org/mcy/d/charlottesville-mopeds-and-parts/7876708701.html,missing,
+8,2001 h-d road king classic (flhrci),5500,2001.0,https://charlottesville.craigslist.org/mcy/d/charlottesville-2001-d-road-king/7876412839.html,h-d,24.0
+9,"2011 bmw r1200rt with new tires, extras",5800,2011.0,https://charlottesville.craigslist.org/mcy/d/roanoke-2011-bmw-r1200rt-with-new-tires/7876261355.html,bmw,14.0
+10,1989 honda goldwing gl-1500,2000,1989.0,https://charlottesville.craigslist.org/mcy/d/white-hall-1989-honda-goldwing-gl-1500/7874184517.html,honda,36.0
+11,2007 harley fxdl,8000,2007.0,https://charlottesville.craigslist.org/mcy/d/charlottesville-2007-harley-fxdl/7874163390.html,harley,18.0
+12,segway - ninebot f2 (priced to move!),290,,https://charlottesville.craigslist.org/mcy/d/charlottesville-segway-ninebot-f2/7873714689.html,missing,
+13,ultimate classic bike 1968 triumph bonneville,0,1968.0,https://charlottesville.craigslist.org/mcy/d/crozet-ultimate-classic-bike-1968/7873430456.html,triumph,57.0
